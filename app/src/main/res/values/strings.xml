@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GiveItBack</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">préstecs</string>
+    <string name="title_notifications">Config</string>
+    <string name="prestecs">préstecs</string>
+    <string name="objectes">Objectes</string>
+    <string name="veure_tots">Veure tots</string>
+    <string name="button">Veure tots</string>
+    <string name="button2">Veure tots</string>
+    <string name="textview">Presones</string>
+    <string name="prestec">Préstec</string>
+    <string name="nom">Nom</string>
+    <string name="correu_electronic">Correu electronic</string>
+    <string name="tel_fon">Teléfon</string>
+    <string name="objecte">Objecte</string>
+    <string name="definicio">Definició</string>
+    <string name="esborrar">Esborrar</string>
+    <string name="retornat">Retornat</string>
+    <string name="data_prestec">Data Prestec</string>
+    <string name="data_retorn">Data retorn</string>
+    <string name="persona">Persona</string>
+    <string name="nou">Nou</string>
+    <string name="nou_prestec">Nou Prestec</string>
+    <string name="nota_addicional">Nota addicional</string>
+    <string name="afegir">Afegir</string>
+    <string name="nova_persona">Nova Persona</string>
+    <string name="ex_maria_joan_etc">Ex: Maria, Joan, etc...</string>
+    <string name="cognom">Cognom</string>
+    <string name="ex_suarez_benitez">Ex: Suarez Benitez,...</string>
+    <string name="ex_natalia_gmail_com">Ex: natalia@gmail.com...</string>
+    <string name="ex_615464971">Ex: 615464971</string>
+    <string name="afegir_persona">Afegeix nova persona...</string>
+    <string name="afegir_objecte">Afegeix nou objecte...</string>
+</resources>

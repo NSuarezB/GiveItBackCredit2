@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiveItBack</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Préstamos</string>
+    <string name="title_notifications">Configuración</string>
+    <string name="prestecs">Préstamos</string>
+    <string name="objectes">Objetos</string>
+    <string name="veure_tots">Ver todos</string>
+    <string name="button">Ver todos</string>
+    <string name="button2">Ver todos</string>
+    <string name="textview">Personas</string>
+    <string name="prestec">Préstamo</string>
+    <string name="nom">Nombre</string>
+    <string name="correu_electronic">Correo electrónico</string>
+    <string name="tel_fon">Teléfono</string>
+    <string name="objecte">Objeto</string>
+    <string name="definicio">Definición</string>
+    <string name="esborrar">Borrar</string>
+    <string name="retornat">Devuelto</string>
+    <string name="data_prestec">Fecha préstamo</string>
+    <string name="data_retorn">Fecha devuelto</string>
+    <string name="persona">Persona</string>
+    <string name="nou">Nuevo</string>
+    <string name="afegir">Añadir</string>
+    <string name="nou_prestec">Nuevo préstamo</string>
+    <string name="nota_addicional">Nota adicional</string>
+</resources>

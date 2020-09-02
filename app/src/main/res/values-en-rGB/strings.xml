@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiveItBack</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Loans</string>
+    <string name="title_notifications">Configuration</string>
+    <string name="prestecs">Loans</string>
+    <string name="objectes">Objects</string>
+    <string name="veure_tots">View all</string>
+    <string name="button">View all</string>
+    <string name="button2">View all</string>
+    <string name="textview">Persons</string>
+    <string name="prestec">Préstec</string>
+    <string name="nom">Name</string>
+    <string name="correu_electronic">Email</string>
+    <string name="tel_fon">Phone</string>
+    <string name="objecte">Object</string>
+    <string name="definicio">Definition</string>
+    <string name="esborrar">Delete</string>
+    <string name="retornat">Returned</string>
+    <string name="data_prestec">Loan date</string>
+    <string name="data_retorn">Returned date</string>
+    <string name="persona">Person</string>
+    <string name="nou">New</string>
+    <string name="afegir">Add</string>
+    <string name="nou_prestec">New loan</string>
+    <string name="nota_addicional">Additional note</string>
+</resources>
